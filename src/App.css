@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+
+.weather-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.weather-content {
+  background-color: #f1f1f1;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.weather-icon {
+  max-width: 100px;
+  margin-top: 10px;
+}
+
